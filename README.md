@@ -1,4 +1,4 @@
-# Quartermaster
+# EVE Quartermaster
 
 A modern, feature-rich mobile application for EVE Online, inspired by Neocom II but built with updated technology. Quartermaster is your comprehensive companion for managing characters, tracking assets, planning routes, and making informed decisions in New Eden.
 
@@ -34,8 +34,8 @@ A modern, feature-rich mobile application for EVE Online, inspired by Neocom II 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AreteDriver/Quartermaster.git
-cd Quartermaster
+git clone https://github.com/AreteDriver/EVE-Quartermaster.git
+cd EVE-Quartermaster
 ```
 
 2. Install dependencies:
@@ -61,7 +61,7 @@ npm start
 ## 📱 App Structure
 
 ```
-Quartermaster/
+EVE-Quartermaster/
 ├── src/
 │   ├── components/        # Reusable UI components
 │   ├── contexts/          # React Context providers
@@ -162,7 +162,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## ⚠️ Disclaimer
 
-Quartermaster is not affiliated with or endorsed by CCP Games. EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights are reserved worldwide.
+EVE Quartermaster is not affiliated with or endorsed by CCP Games. EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights are reserved worldwide.
+
+## ☕ Support the Project
+
+If you enjoy this project, consider supporting development:
+
+- **In-Game**: Send ISK donations to **AreteDriver** in EVE Online
+- **Buy Me a Coffee**: [buymeacoffee.com/aretedriver](https://buymeacoffee.com/aretedriver)
+
+Your support helps keep these projects maintained and improving. o7
+
+---
 
 ## 🙏 Acknowledgments
 
@@ -185,4 +196,3 @@ For support, please open an issue on GitHub or contact the maintainers.
 - [ ] Corporation tools
 - [ ] Offline mode support
 - [ ] Widget support for quick stats
-
