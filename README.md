@@ -34,8 +34,8 @@ A modern, feature-rich mobile application for EVE Online, inspired by Neocom II 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AreteDriver/EVE-Quartermaster.git
-cd EVE-Quartermaster
+git clone https://github.com/AreteDriver/EVE_Quartermaster.git
+cd EVE_Quartermaster
 ```
 
 2. Install dependencies:
